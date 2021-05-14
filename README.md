@@ -39,6 +39,10 @@ Skills and expertise:
 - Google Email
 - Box.com
 - Filezilla
+- Oil, Acrylic, Watercolor, and Gouache Painting
+- Illustration
+- Graphic Design
+- Social Media content creation 
 
 You can find and contact me here:
 
