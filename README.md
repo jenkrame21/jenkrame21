@@ -25,3 +25,8 @@ You can find and contact me here:
 - Portfolio website (WIP): https://my-portfolio-six-orpin.vercel.app/
 - LinkedIn: https://www.linkedin.com/in/creationsbyjenniferkramer/
 - Email: jenkrame@gmail.com
+
+Currently learning:
+- TypeScript
+- Figma
+- UX/UI Design
