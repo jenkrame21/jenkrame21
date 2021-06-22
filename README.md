@@ -6,7 +6,7 @@ Skills and expertise:
 
 📁Web Development
 
-| Javascript | Python | React.js | Redux | CSS | Sass | NODE.js | PostgresQL / PGAdmin | RESTful API | Express | Jest | Postman | Supertest | Heroku | VSCode | Responsive Web Design | Accessibility |
+| Javascript | Python | React.js | Redux | CSS | Sass | NODE.js | PostgresQL / PGAdmin | RESTful API | Express | Jest | Postman | Supertest | Heroku | Netlify | Vercel | VSCode | Responsive Web Design | Accessibility |
 
 📊 Graphic Design
 
